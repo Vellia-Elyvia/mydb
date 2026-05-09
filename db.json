@@ -13,8 +13,13 @@
             "role": "Developer",
             "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Yizhuu",
             "created_at": "2025-11-20",
+            "isVvip": true,
+            "isRess": true,
+            "isOwner": true,
+            "isDev": true,
             "is_logged_in": true,
             "is_active": true,
+            "blocked": false,
             "bot_data": {
                 "bot_username": "v.",
                 "bot_number": "6283837983474"
