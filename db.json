@@ -11,14 +11,15 @@
             "password": "admin547",
             "email": "zenvvlix@gmail.com",
             "role": "Developer",
+            "isVvip": true,
             "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Yizhuu",
             "created_at": "2025-11-20",
-            "min_add": "9990",
+            "min_add": "9999",
             "is_logged_in": true,
             "is_active": true,
             "blocked": false,
             "bot_data": {
-                "bot_username": "v",
+                "bot_username": "v.",
                 "bot_number": "6283837983474"
             }
         }
