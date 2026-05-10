@@ -13,7 +13,7 @@
             "role": "Developer",
             "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Yizhuu",
             "created_at": "2025-11-20",
-            "min_add": "9993",
+            "min_add": "9992",
             "is_logged_in": true,
             "is_active": true,
             "blocked": false,
@@ -44,6 +44,10 @@
             "bot_data_7": {
                 "bot_username": "p",
                 "bot_number": "dsjkdsjdsvj"
+            },
+            "bot_data_8": {
+                "bot_username": "sac",
+                "bot_number": "saca"
             }
         }
     ],
