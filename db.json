@@ -1301,7 +1301,7 @@
                 },
                 "v2.3.8": {
                     "file": "Vellia Elyvia V2.3.8.zip",
-                    "ismember": true,
+                    "ismember": false,
                     "isvvip": true,
                     "isress": true,
                     "isOwner": true,
