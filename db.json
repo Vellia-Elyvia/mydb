@@ -14,13 +14,17 @@
             "is_Vvip": true,
             "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Yizhuu",
             "created_at": "2025-11-20",
-            "min_add": "9998",
+            "min_add": "9997",
             "is_logged_in": true,
             "is_active": true,
             "blocked": false,
             "bot_data": {
                 "bot_username": "v.",
                 "bot_number": "6283837983474"
+            },
+            "bot_data_2": {
+                "bot_username": "pwp",
+                "bot_number": "32r23"
             }
         },
         {
