@@ -63,6 +63,7 @@
                     "isvvip": false,
                     "isress": false,
                     "isOwner": false,
+                    "maintenance": true,
                     "reason": "Maintenance global"
                 },
                 "v1.0.1": {
