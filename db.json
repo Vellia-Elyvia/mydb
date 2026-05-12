@@ -14,7 +14,7 @@
             "is_Vvip": true,
             "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Yizhuu",
             "created_at": "2025-11-20",
-            "min_add": "9999",
+            "min_add": "9998",
             "is_logged_in": true,
             "is_active": true,
             "blocked": false,
@@ -22,6 +22,21 @@
                 "bot_username": "v.",
                 "bot_number": "6283837983474"
             }
+        },
+        {
+            "name": "yaya",
+            "username": "yaya",
+            "password": "yaya",
+            "email": "pp",
+            "role": "Member",
+            "is_Vvip": false,
+            "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=yaya",
+            "created_at": "2026-05-12",
+            "min_add": "0",
+            "is_logged_in": false,
+            "is_active": true,
+            "blocked": false,
+            "added_by": "nifza"
         }
     ],
     "history_activity": [
