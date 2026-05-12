@@ -35,9 +35,8 @@
             "min_add": "0",
             "is_logged_in": false,
             "is_active": true,
-            "blocked": true,
-            "added_by": "nifza",
-            "block_reason": "tolol"
+            "blocked": false,
+            "added_by": "nifza"
         },
         {
             "name": "yaya",
