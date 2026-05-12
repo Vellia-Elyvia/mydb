@@ -38,6 +38,24 @@
             "blocked": true,
             "added_by": "nifza",
             "block_reason": "tolol"
+        },
+        {
+            "name": "yaya",
+            "username": "aabsa",
+            "password": "ec",
+            "email": "ecva",
+            "role": "Reseller",
+            "is_Vvip": false,
+            "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=aabsa",
+            "created_at": "2026-05-12",
+            "min_add": "20",
+            "is_logged_in": false,
+            "is_active": true,
+            "blocked": false,
+            "bot_data": {
+                "bot_username": "",
+                "bot_number": ""
+            }
         }
     ],
     "history_activity": [
