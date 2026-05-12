@@ -35,8 +35,9 @@
             "min_add": "0",
             "is_logged_in": false,
             "is_active": true,
-            "blocked": false,
-            "added_by": "nifza"
+            "blocked": true,
+            "added_by": "nifza",
+            "block_reason": "tolol"
         }
     ],
     "history_activity": [
