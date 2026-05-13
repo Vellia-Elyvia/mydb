@@ -10,69 +10,17 @@
             "username": "nifza",
             "password": "admin547",
             "email": "zenvvlix@gmail.com",
-            "role": "developer",
+            "role": "Developer",
             "is_Vvip": true,
             "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Yizhuu",
             "created_at": "2025-11-20",
-            "min_add": "9998",
+            "min_add": "9999",
             "is_logged_in": true,
             "is_active": true,
             "blocked": false,
             "bot_data": {
                 "bot_username": "v.",
                 "bot_number": "6283837983474"
-            }
-        },
-        {
-            "name": "yaya",
-            "username": "yaya",
-            "password": "yaya",
-            "email": "pp",
-            "role": "Member",
-            "is_Vvip": false,
-            "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=yaya",
-            "created_at": "2026-05-12",
-            "min_add": "0",
-            "is_logged_in": false,
-            "is_active": true,
-            "blocked": false,
-            "added_by": "nifza"
-        },
-        {
-            "name": "yaya",
-            "username": "aabsa",
-            "password": "ec",
-            "email": "ecva",
-            "role": "Reseller",
-            "is_Vvip": false,
-            "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=aabsa",
-            "created_at": "2026-05-12",
-            "min_add": "20",
-            "is_logged_in": false,
-            "is_active": true,
-            "blocked": false,
-            "bot_data": {
-                "bot_username": "",
-                "bot_number": ""
-            }
-        },
-        {
-            "name": "pptes",
-            "username": "iyufglu.",
-            "password": "ilug.",
-            "email": "libiu",
-            "role": "Owner",
-            "is_Vvip": true,
-            "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=iyufglu.",
-            "created_at": "2026-05-13",
-            "min_add": "767676767",
-            "is_logged_in": false,
-            "is_active": true,
-            "blocked": false,
-            "added_by": "nifza",
-            "bot_data": {
-                "bot_username": "",
-                "bot_number": ""
             }
         }
     ],
@@ -104,6 +52,27 @@
                     "timestamp": "2026-05-09T19:06:20Z"
                 }
             ]
+        }
+    ],
+    "broadcasts": [
+        {
+            "broadcast_id": "BC-001",
+            "title": "Pembaruan Fitur Baru",
+            "content": "Kami baru saja merilis fitur baru untuk meningkatkan pengalaman pengguna. Pastikan untuk memperbarui aplikasi Anda ke versi terbaru!",
+            "timestamp": "2026-05-09T20:00:00Z",
+            "shared_by": "Yizhuu ReadStrom",
+            "show_in_app": false
+        }
+    ],
+    "update_logs": [
+        {
+            "version": "2.3.9",
+            "changes": [
+                "Initial release of Vellia Apps with core features.",
+                "Added user authentication and role management.",
+                "Implemented basic chat functionality."
+            ],
+            "release_date": "2025-11-20"
         }
     ],
     "script": [
