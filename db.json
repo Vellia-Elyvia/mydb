@@ -55,6 +55,25 @@
                 "bot_username": "",
                 "bot_number": ""
             }
+        },
+        {
+            "name": "pptes",
+            "username": "iyufglu.",
+            "password": "ilug.",
+            "email": "libiu",
+            "role": "Owner",
+            "is_Vvip": true,
+            "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=iyufglu.",
+            "created_at": "2026-05-13",
+            "min_add": "767676767",
+            "is_logged_in": false,
+            "is_active": true,
+            "blocked": false,
+            "added_by": "nifza",
+            "bot_data": {
+                "bot_username": "",
+                "bot_number": ""
+            }
         }
     ],
     "history_activity": [
