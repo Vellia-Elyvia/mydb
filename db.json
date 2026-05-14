@@ -35,7 +35,7 @@
             "min_add": "99999",
             "is_logged_in": false,
             "is_active": true,
-            "blocked": false,
+            "blocked": true,
             "added_by": "nifza",
             "bot_data": {
                 "bot_username": "",
