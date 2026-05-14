@@ -1387,7 +1387,7 @@
                     "isvvip": false,
                     "isress": false,
                     "isOwner": false,
-                    "maintenance": true,
+                    "maintenance": false,
                     "reason": ""
                 }
             }
