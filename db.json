@@ -1380,6 +1380,15 @@
                     "isOwner": false,
                     "maintenance": false,
                     "reason": ""
+                },
+                "v2.4.9": {
+                    "file": "Vellia Elyvia V2.3.8 (2).zip",
+                    "ismember": false,
+                    "isvvip": false,
+                    "isress": false,
+                    "isOwner": false,
+                    "maintenance": true,
+                    "reason": ""
                 }
             }
         }
