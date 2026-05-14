@@ -1378,8 +1378,8 @@
                     "isvvip": false,
                     "isress": false,
                     "isOwner": false,
-                    "maintenance": true,
-                    "reason": "Hanya dapat diakases oleh developer"
+                    "maintenance": false,
+                    "reason": ""
                 }
             }
         }
