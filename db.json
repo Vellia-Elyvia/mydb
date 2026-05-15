@@ -13,7 +13,7 @@
             "role": "Developer",
             "is_Vvip": true,
             "avatar": "https://raw.githubusercontent.com/Vellia-Elyvia/mydb/main/image/avatar_nifza_1778876419677.jpg",
-            "created_at": "2025-11-20",
+            "created_at": "1945-8-17",
             "min_add": "9998",
             "is_logged_in": true,
             "is_active": true,
@@ -25,25 +25,6 @@
             "bot_data_2": {
                 "bot_username": "sc",
                 "bot_number": "43"
-            }
-        },
-        {
-            "name": "yaya",
-            "username": "acsaa",
-            "password": "saca",
-            "email": "aaaaaaacs",
-            "role": "Reseller",
-            "is_Vvip": true,
-            "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=acsaa",
-            "created_at": "2026-05-14",
-            "min_add": "20",
-            "is_logged_in": false,
-            "is_active": true,
-            "blocked": true,
-            "added_by": "nifza",
-            "bot_data": {
-                "bot_username": "",
-                "bot_number": ""
             }
         }
     ],
