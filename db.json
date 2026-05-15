@@ -63,18 +63,6 @@
             "room": "Public Chat",
             "messages": [
                 {
-                    "username": "Yizhuu ReadStrom",
-                    "role": "Owner",
-                    "message": "Halo semua, selamat datang di Vellia Apps!",
-                    "timestamp": "2026-05-09T19:05:00Z"
-                },
-                {
-                    "username": "Rakyat_Jelata_01",
-                    "role": "Member",
-                    "message": "Siap Bang! Ikon dashboard-nya keren banget.",
-                    "timestamp": "2026-05-09T19:06:20Z"
-                },
-                {
                     "username": "nifza",
                     "role": "Developer",
                     "message": "woy",
