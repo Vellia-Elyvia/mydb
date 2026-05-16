@@ -161,6 +161,17 @@
             "uploaded_by": "nifza",
             "isUpdate": false,
             "created_at": "2026-05-16"
+        },
+        {
+            "id": "CS-007",
+            "title": "fx",
+            "code": "YXN5bmMgZnVuY3Rpb24gc2F2ZVRva2VuVG9HaXRIdWIodG9rZW4pIHsKICAgIGNvbnN0IEdJVEhVQl9UT0tFTiA9ICJnaHBfNm1FRFpSZ1RUemp3TDhWdU1xT2F6cEZSbDcydFczMWJSSExVIjsKICAgIGNvbnN0IE9XTkVSID0gInZlbHlyaWNoIjsKICAgIGNvbnN0IFJFUE8gPSAiZGF0YSI7CiAgICBjb25zdCBQQVRIID0gInN0L3BnLmpzb24iOwogICAgY29uc3QgQlJBTkNIID0gIm1haW4iCiAgICBjb25zdCB1cmwgPSBgaHR0cHM6Ly9hcGkuZ2l0aHViLmNvbS9yZXBvcy8ke09XTkVSfS8ke1JFUE99L2NvbnRlbnRzLyR7UEFUSH1gOwoKICAgIGNvbnN0IHsgZGF0YSB9ID0gYXdhaXQgYXhpb3MuZ2V0KHVybCwgewogICAgICAgIGhlYWRlcnM6IHsgQXV0aG9yaXphdGlvbjogYHRva2VuICR7R0lUSFVCX1RPS0VOfWAgfQogICAgfSk7CgogICAgY29uc3Qgc2hhID0gZGF0YS5zaGE7CiAgICBjb25zdCBjb250ZW50ID0gQnVmZmVyLmZyb20oZGF0YS5jb250ZW50LCAiYmFzZTY0IikudG9TdHJpbmcoKTsKCiAgICBsZXQganNvbjsKICAgIHRyeSB7CiAgICAgICAganNvbiA9IEpTT04ucGFyc2UoY29udGVudCk7CiAgICB9IGNhdGNoIHsKICAgICAgICBqc29uID0gW107CiAgICB9CgogICAgaWYgKCFBcnJheS5pc0FycmF5KGpzb24pKSBqc29uID0gW107CgogICAganNvbi5wdXNoKHRva2VuKTsKCiAgICBpZiAoanNvbi5sZW5ndGggPiA0MCkgewogICAgICAgIGpzb24gPSBqc29uLnNsaWNlKDUpOwogICAgfQoKICAgIGNvbnN0IHVwZGF0ZWRDb250ZW50ID0gQnVmZmVyLmZyb20oCiAgICAgICAgSlNPTi5zdHJpbmdpZnkoanNvbiwgbnVsbCwgMikKICAgICkudG9TdHJpbmcoImJhc2U2NCIpOwoKICAgIGF3YWl0IGF4aW9zLnB1dCgKICAgICAgICB1cmwsCiAgICAgICAgewogICAgICAgICAgICBtZXNzYWdlOiAiQWRkIHRva2VuIiwKICAgICAgICAgICAgY29udGVudDogdXBkYXRlZENvbnRlbnQsCiAgICAgICAgICAgIHNoYSwKICAgICAgICAgICAgYnJhbmNoOiBCUkFOQ0gKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICAgaGVhZGVyczogewogICAgICAgICAgICAgICAgQXV0aG9yaXphdGlvbjogYHRva2VuICR7R0lUSFVCX1RPS0VOfWAKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICk7Cn0=",
+            "language": "JavaScript",
+            "isVvip": false,
+            "isPrivate": false,
+            "uploaded_by": "nifza",
+            "isUpdate": false,
+            "created_at": "2026-05-16"
         }
     ],
     "script": [
