@@ -18,10 +18,6 @@
             "is_logged_in": true,
             "is_active": true,
             "blocked": false,
-            "bot_data": {
-                "bot_username": "vppp",
-                "bot_number": "6283837983474"
-            },
             "bot_data_2": {
                 "bot_username": "sc",
                 "bot_number": "43"
