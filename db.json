@@ -55,6 +55,10 @@
         {
             "message": "User nifza menghapus data bot di slot 1",
             "show_in_app": false
+        },
+        {
+            "id": "ACT-1778936557150",
+            "message": "User @nifza menghapus data bot di slot 1"
         }
     ],
     "chats": [
