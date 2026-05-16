@@ -12,54 +12,19 @@
             "email": "zenvvlix@gmail.com",
             "role": "Developer",
             "is_Vvip": true,
-            "avatar": "https://raw.githubusercontent.com/Vellia-Elyvia/mydb/main/image/avatar_nifza_1778876419677.jpg",
-            "created_at": "1945-8-17",
-            "min_add": "9998",
+            "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Yizhuu",
+            "created_at": "2025-11-20",
+            "min_add": "9999",
             "is_logged_in": true,
             "is_active": true,
             "blocked": false,
-            "bot_data_2": {
-                "bot_username": "sc",
-                "bot_number": "43"
-            }
-        },
-        {
-            "name": "FidzZz Fx",
-            "username": "linexxazh",
-            "password": "23",
-            "email": "idzzch@gmail.com",
-            "role": "Developer",
-            "is_Vvip": true,
-            "avatar": "https://raw.githubusercontent.com/Vellia-Elyvia/mydb/main/image/avatar_linexxazh_1778878650522.jpg",
-            "created_at": "2026-05-15",
-            "min_add": "9999",
-            "is_logged_in": false,
-            "is_active": true,
-            "blocked": false,
-            "added_by": "nifza",
             "bot_data": {
-                "bot_username": "",
-                "bot_number": ""
+                "bot_username": "v.",
+                "bot_number": "6283837983474"
             }
         }
     ],
     "history_activity": [
-        {
-            "log_id": "LOG-9921",
-            "username": "Yizhuu ReadStrom",
-            "action": "Login",
-            "device": "Samsung S25 Ultra",
-            "timestamp": "2026-05-09T18:54:40Z",
-            "ip_address": "192.168.1.1"
-        },
-        {
-            "message": "User nifza menghapus data bot di slot 1",
-            "show_in_app": false
-        },
-        {
-            "id": "ACT-1778936557150",
-            "message": "User @nifza menghapus data bot di slot 1"
-        }
     ],
     "chats": [
         {
@@ -71,12 +36,6 @@
                     "role": "Developer",
                     "message": "woy",
                     "timestamp": "2026-05-15T19:36:34.656Z"
-                },
-                {
-                    "username": "nifza",
-                    "role": "Developer",
-                    "message": "ok dah bisa",
-                    "timestamp": "2026-05-15T19:43:55.295Z"
                 }
             ]
         }
@@ -84,24 +43,8 @@
     "broadcasts": [
         {
             "broadcast_id": "BC-001",
-            "title": "Pembaruan Fitur Baru",
-            "content": "Kami baru saja merilis fitur baru untuk meningkatkan pengalaman pengguna. Pastikan untuk memperbarui aplikasi Anda ke versi terbaru!",
-            "timestamp": "2026-05-09T20:00:00Z",
-            "shared_by": "Yizhuu ReadStrom",
-            "show_in_app": false
-        },
-        {
-            "broadcast_id": "BC-002",
-            "title": "pp",
-            "content": "pp",
-            "timestamp": "2026-05-14T08:05:55.134Z",
-            "shared_by": "N For Nifza",
-            "show_in_app": true
-        },
-        {
-            "broadcast_id": "BC-003",
-            "title": "woy",
-            "content": "memek"
+            "title": "welcome",
+            "content": ""
         }
     ],
     "update_logs": [
@@ -113,13 +56,6 @@
                 "Implemented basic chat functionality."
             ],
             "release_date": "2025-11-20"
-        },
-        {
-            "version": "2.4.0",
-            "changes": [
-                "yaya"
-            ],
-            "release_date": "2026-05-14"
         }
     ],
     "script": [
@@ -1391,17 +1327,8 @@
                     "isvvip": false,
                     "isress": false,
                     "isOwner": false,
-                    "maintenance": false,
-                    "reason": ""
-                },
-                "v2.4.9": {
-                    "file": "Vellia Elyvia V2.3.8 (2).zip",
-                    "ismember": false,
-                    "isvvip": false,
-                    "isress": false,
-                    "isOwner": false,
-                    "maintenance": false,
-                    "reason": ""
+                    "maintenance": true,
+                    "reason": "Hanya dapat diakases oleh developer"
                 }
             }
         }
