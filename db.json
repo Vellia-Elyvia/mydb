@@ -82,8 +82,8 @@
             "title": "fdvp",
             "code": "console.log('Hello, World!');",
             "language": "JavaScript",
-            "isVvip": true,
-            "isPrivate": false,
+            "isVvip": false,
+            "isPrivate": true,
             "uploaded_by": "nifza",
             "created_at": "2026-05-16",
             "isUpdate": true
