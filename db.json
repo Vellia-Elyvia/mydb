@@ -24,7 +24,12 @@
             }
         }
     ],
-    "history_activity": [],
+    "history_activity": [
+        {
+            "id": "ACT-1778947874761",
+            "message": "Developer @nifza mengubah role akun @nifza menjadi Member"
+        }
+    ],
     "chats": [
         {
             "chat_id": "CH-001",
