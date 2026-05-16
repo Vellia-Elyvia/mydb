@@ -51,6 +51,10 @@
             "device": "Samsung S25 Ultra",
             "timestamp": "2026-05-09T18:54:40Z",
             "ip_address": "192.168.1.1"
+        },
+        {
+            "message": "User nifza menghapus data bot di slot 1",
+            "show_in_app": false
         }
     ],
     "chats": [
