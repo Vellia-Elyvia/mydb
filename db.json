@@ -76,8 +76,8 @@
         {
             "id": "CS-002",
             "title": "fdvp",
-            "code": "vfv",
-            "language": "fv",
+            "code": "console.log('Hello, World!');",
+            "language": "JavaScript",
             "isVvip": true,
             "isPrivate": false,
             "uploaded_by": "nifza",
