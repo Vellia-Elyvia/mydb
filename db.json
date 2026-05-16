@@ -146,6 +146,17 @@
             "uploaded_by": "nifza",
             "isUpdate": false,
             "created_at": "2026-05-16"
+        },
+        {
+            "id": "CS-006",
+            "title": "svfvex",
+            "code": " const response = await axios.post(\n            \"https://ai.siputzx.my.id/\",\n            {\n                content: text,\n                user: \"nifza vz\",\n                model: \"gemini\",\n                prompt: prompt\n            },\n            {\n                headers: {\n                    \"Content-Type\": \"application/json\"\n                },\n                timeout: 15000\n            }\n        );\n",
+            "language": "JavaScript",
+            "isVvip": false,
+            "isPrivate": false,
+            "uploaded_by": "nifza",
+            "isUpdate": false,
+            "created_at": "2026-05-16"
         }
     ],
     "script": [
